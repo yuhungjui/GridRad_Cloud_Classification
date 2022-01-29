@@ -15,4 +15,4 @@ Last update - 20220128 - Hungjui Yu
 
 ## Cloud Type (Storm Mode) Classification Process Flow Chart:
 
-![](https://github.com/yuhungjui/WRF_dBZ_Cloud_Classification/blob/main/WRF_dBZ_Class_CONUS1/Storm_Mode_Flow.png)
+![](https://github.com/yuhungjui/GridRad_Cloud_Classification/blob/main/Storm_Mode_Flow.png)
